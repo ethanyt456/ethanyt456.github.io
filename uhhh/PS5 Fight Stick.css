@@ -1,6 +1,6 @@
 /*BEGIN Fight Stick Controller Styling*/
 .controller.fight-stick {
-    background: url(Custom-base.png) center no-repeat;
+    background: url(base.png) center no-repeat;
     height: 534px;
     width: 1122px;
 }
