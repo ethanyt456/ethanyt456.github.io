@@ -32,10 +32,12 @@
     float: right;
     bottom: 4px;
     right: 42px;
+    background: url(button_7.png);
 }
 
 .fight-stick .trigger-button.right {
     float: left;
+    background: url(button_6.png);
 }
 
 .fight-stick .bumpers {
@@ -69,6 +71,7 @@
 
 .fight-stick .bumper.right {
     float: left;
+    background: url(button_5.png);
 }
 
 .fight-stick .quadrant {
@@ -154,21 +157,25 @@
 .fight-stick .a {
     bottom: 0px;
     left: 0px;
+    background: url(button_2.png);
 }
 
 .fight-stick .b {
     bottom: 66px;
     right: 31px;
+    background: url(button_4.png);
 }
 
 .fight-stick .x {
     top: 66px;
     left: 33px
+    background: url(button_1.png);
 }
 
 .fight-stick .y {
     right: 0px;
     top: 0px;
+    background: url(button_3.png);
 }
 
 .fight-stick .fstick {
